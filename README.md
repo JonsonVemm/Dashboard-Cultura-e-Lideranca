@@ -1,7 +1,7 @@
 💻 **Como visualizar o painel**
 
 Você pode interagir com o painel publicado através do link abaixo:
-🔗 (https://app.powerbi.com/view?r=eyJrIjoiOTI2YTE2MjAtMGYxMC00OGY1LThjYzgtNmUwYjAyZWEzZDY4IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9)
+🔗 https://app.powerbi.com/view?r=eyJrIjoiOTI2YTE2MjAtMGYxMC00OGY1LThjYzgtNmUwYjAyZWEzZDY4IiwidCI6IjhlYjI5MjAxLWEyN2QtNDMwMi04NDczLWM5ODJlYjViZTkzNSJ9
 
 📌 **Sobre o Projeto**
 
